@@ -1,0 +1,5 @@
+*.png
+*.odt
+.ipynb_checkpoints
+trained_imgs
+*.txt
