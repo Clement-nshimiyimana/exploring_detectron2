@@ -1,7 +1,7 @@
 # Instance Segmentation, Pose Estimation and Object Tracking using Detectron2
 > Explores detectron2 for object detections tasks.
 
-![](ObjectTracking/tracked_frames/1.jpg)
+![object tracking using detectron2](ObjectTracking/tracked_frames/1.jpg)
 
 [Detectron2](https://github.com/facebookresearch/detectron2) is an object detection library from Facebook AI. It can be used to perform;
 
@@ -22,7 +22,7 @@ I explored the Detectron2 library as part of my project for [AMMI](https://aimsa
 
 ## Usage
 
-Notebooks are provided in the repository which can be easily run on google colab. Upload the notebooks to colab to run.
+Notebooks provided in this repository can be easily run on google colab. Upload the notebooks to colab to run.
 
 You may need to add your own dataset.
 
